@@ -27,7 +27,7 @@ public class MainClass {
 				//Employee2 em3=new Employee2("Tashi",9000);
 				//session.save(em3);
 				
-				Employee2 em4=new Employee2("Donny Tamang Ghimere",4000);
+				Employee2 em4=new Employee2("Ashra",4000);
 				session.persist(em4);
 				
 				
