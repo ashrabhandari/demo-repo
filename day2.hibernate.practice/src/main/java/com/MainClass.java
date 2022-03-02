@@ -17,14 +17,14 @@ public class MainClass {
 				session.beginTransaction();
 		
 		
-				//Employee2 em=new Employee2(003,"Tashia",8000);
+				//Employee2 em=new Employee2(003,"Rojal",8000);
 				//session.save(em);
 				
 		
-				//Employee2 em1=new Employee2(005,"Bishow",9000);
+				//Employee2 em1=new Employee2(005,"Bijay",9000);
 				//session.save(em1);
 				
-				//Employee2 em3=new Employee2("Tashi",9000);
+				//Employee2 em3=new Employee2("Ashra",9000);
 				//session.save(em3);
 				
 				Employee2 em4=new Employee2("Ashra",4000);
