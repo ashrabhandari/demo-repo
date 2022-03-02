@@ -3,9 +3,11 @@ package com;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
 //creating a table employee2 in MySQL database
+@Table(name="employee3")
 public class Employee2 {
 	
 	int id;
